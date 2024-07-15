@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad_3_2</string>
+    <string name="nombre_fichero">Nombre del fichero:</string>
+    <string name="hint_archivo">\"archivo.txt\"</string>
+    <string name="hint_default_nota">Texto</string>
+    <string name="btGuardar">GUARDAR</string>
+    <string name="bt_leer">LEER</string>
+    <string name="bt_guardar_sd">GUARDARSD</string>
+    <string name="bt_leer_sd">LEERSD</string>
+    <string name="bt_borrar">BORRAR</string>
+</resources>

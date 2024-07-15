@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent_implicitos</string>
+    <string name="etiqueta_salida">Salida</string>
+    <string name="boton_navegador">LANZAR NAVEGADOR</string>
+    <string name="boton_llamar_contacto">LLAMAR A UN CONTACTO</string>
+    <string name="boton_telefono">MARCAR UN TELÉFONO</string>
+    <string name="boton_mostrar_mapa">MOSTRAR MAPA</string>
+    <string name="boton_buscar_mapa">BUSCAR EN MAPA</string>
+    <string name="boton_foto">TOMAR FOTO</string>
+    <string name="boton_buscar_contactos">BUSCAR CONTACTOS</string>
+</resources>

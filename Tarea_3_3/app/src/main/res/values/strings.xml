@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea_3_3</string>
+    <string name="tvTitulo">Lista de la compra</string>
+    <string name="hint_productos">Nombre del producto</string>
+    <string name="hint_cantidad">Cantidad</string>
+    <string name="bt_aceptar">ACEPTAR</string>
+    <string name="hint_prod_lista">Producto</string>
+    <string name="hint_cant_lista" >Cantidad</string>
+</resources>

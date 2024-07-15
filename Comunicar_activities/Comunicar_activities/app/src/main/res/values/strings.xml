@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interfaz3</string>
+    <string name="Texto">IES Trassierra</string>
+    <string name="Boton">Mostrar reloj</string>
+    <string name="ir_y_volver_nuevo">IR Y VOLVER (Nuevo)</string>
+    <string name="ir_y_volver">IR Y VOLVER</string>
+    <string name="ir">IR</string>
+    <string name="introduce_una_direcci_n_web">Introduce una dirección web</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PMDM presencial/Ejemplos clase/Menu/app/src/main/res/drawable/ic_eliminar_de_bd.xml" value="0.3828125" />
+        <entry key="..\:/PMDM presencial/Ejemplos clase/Menu/app/src/main/res/drawable/ic_home_color.xml" value="0.3828125" />
+        <entry key="..\:/PMDM presencial/Ejemplos clase/Menu/app/src/main/res/drawable/ic_insertar_en_bd.xml" value="0.3828125" />
+        <entry key="..\:/PMDM presencial/Ejemplos clase/Menu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/PMDM presencial/Ejemplos clase/Menu/app/src/main/res/menu/menu_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/PMDM presencial/Ejemplos clase/Menu/app/src/main/res/menu/otro_menu.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/menu/menu_principal.xml" value="0.3567708333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

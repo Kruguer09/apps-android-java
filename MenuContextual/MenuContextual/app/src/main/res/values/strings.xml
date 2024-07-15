@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuContextual</string>
+    <string name="opCtx1">Opción 1</string>
+    <string name="opCtx2">Opción 2</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Degradado de rojo claro a rojo oscuro -->
+    <item>
+        <shape>
+            <gradient
+                android:type="radial"
+                android:centerX="50%"
+                android:centerY="75%"
+                android:gradientRadius="120%"
+                android:startColor="#F44336"
+                android:endColor="#B71C1C"/>
+        </shape>
+    </item>
+</selector>

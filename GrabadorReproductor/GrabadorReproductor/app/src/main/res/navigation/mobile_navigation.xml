@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_audio">
+
+    <fragment
+        android:id="@+id/navigation_audio"
+        android:name="iestrassierra.jlcamunas.grabador_reproductor.ui.audio.AudioFragment"
+        android:label="@string/titulo_audio"
+        tools:layout="@layout/fragment_audio">
+        <action
+            android:id="@+id/action_navigation_audio_to_navigation_video"
+            app:destination="@id/navigation_video" />
+        <action
+            android:id="@+id/action_navigation_audio_to_navigation_foto"
+            app:destination="@id/navigation_foto" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_foto"
+        android:name="iestrassierra.jlcamunas.grabador_reproductor.ui.foto.FotoFragment"
+        android:label="@string/titulo_foto"
+        tools:layout="@layout/fragment_foto">
+        <action
+            android:id="@+id/action_navigation_foto_to_navigation_audio"
+            app:destination="@id/navigation_audio" />
+        <action
+            android:id="@+id/action_navigation_foto_to_navigation_video"
+            app:destination="@id/navigation_video" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_video"
+        android:name="iestrassierra.jlcamunas.grabador_reproductor.ui.video.VideoFragment"
+        android:label="@string/titulo_video"
+        tools:layout="@layout/fragment_video" >
+        <action
+            android:id="@+id/action_navigation_video_to_navigation_audio"
+            app:destination="@id/navigation_audio" />
+        <action
+            android:id="@+id/action_navigation_video_to_navigation_foto"
+            app:destination="@id/navigation_foto" />
+    </fragment>
+</navigation>

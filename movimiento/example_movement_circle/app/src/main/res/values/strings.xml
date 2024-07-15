@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mover un círculo</string>
+    <string name="action_settings">Settings</string>
+    <string name="btClose">Cerrar aplicación</string>
+</resources>

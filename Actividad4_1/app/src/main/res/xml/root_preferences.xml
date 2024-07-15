@@ -1,0 +1,101 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <CheckBoxPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            android:title="@string/pref_relleno"
+            app:key="@string/key_rellenar"
+            app:summaryOff="@string/rellenar_off"
+            app:summaryOn="@string/rellenar_on" />
+        <ListPreference
+            app:defaultValue="reply"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="@string/key_tamanyo"
+            app:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true" />
+        <ListPreference
+            android:defaultValue="1"
+            android:title="@string/pref_forma"
+            app:entries="@array/reply_entries_forma"
+            app:entryValues="@array/reply_values_forma"
+            app:key="@string/key_forma"
+            app:useSimpleSummaryProvider="true" />
+        <SwitchPreferenceCompat
+            app:key="@string/key_color"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on"
+            app:title="@string/attachment_title" />
+        <CheckBoxPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            android:title="@string/pref_permanencia"
+            app:key="@string/key_permanencia"
+            app:summaryOff="@string/permanencia_off"
+            app:summaryOn="@string/premanencia_on" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:dependency="@string/key_color"
+        app:title="@string/sync_header">
+
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="0"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_vslores_rojo"
+            app:key="@string/key_rojo"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="0"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_verde"
+            app:key="@string/key_verde"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="0"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_azul"
+            app:key="@string/key_azul"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/pref_categoria_formas_especiales">
+
+        <SwitchPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            android:title="@string/pref_forma_esp"
+            app:key="@string/key_forma_especial"
+            app:summaryOff="@string/pref_swich_formas_off"
+            app:summaryOn="@string/pref_swich_formas_on" />
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:defaultValue="3"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_num_lados"
+            app:key="@string/key_num_lados"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

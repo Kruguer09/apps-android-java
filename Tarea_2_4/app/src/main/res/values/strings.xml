@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea_2_4</string>
+    <string name="etDirecWeb" />
+    <string name="etHintTex">Escriba una dirección web</string>
+    <string name="btVer">VER</string>
+    <string name="btVolver">VOLVER</string>
+</resources>

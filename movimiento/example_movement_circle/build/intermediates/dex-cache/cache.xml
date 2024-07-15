@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\usuario\Desktop\PMDM04_Revisada\EjemploCanvasPaintPath1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf4d33a29c2d04685526e4c5a921df7f7d89a0db">
+        <dex dex="C:\Users\usuario\Desktop\PMDM04_Revisada\EjemploCanvasPaintPath1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_da38b231a19765d3f2acd2119a4cdfcc3fcaa015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\usuario\Desktop\PMDM04_Revisada\EjemploCanvasPaintPath1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_4500bce4d5b0ca5fb106af3dd5615000a85091b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\usuario\Desktop\PMDM04_Revisada\EjemploCanvasPaintPath1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88929c16d851f1a117ac2935b39781c48f250799">
+        <dex dex="C:\Users\usuario\Desktop\PMDM04_Revisada\EjemploCanvasPaintPath1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0e1e4c8f228f68bcf3e97ccc39dc901f04061ad6\classes.dex" />
+    </item>
+
+</items>

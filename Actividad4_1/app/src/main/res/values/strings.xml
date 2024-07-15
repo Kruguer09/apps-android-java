@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Actividad4_1</string>
+    <string name="title_activity_preferencias_formas">PreferenciasFormas</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Opciones</string>
+    <string name="sync_header">Elige tu color</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Tamaño</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Color de las formas</string>
+    <string name="attachment_summary_on">Color personalizado, elige uno.</string>
+    <string name="attachment_summary_off">Color aleatorio</string>
+    <string name="item_preferencias">Preferencias</string>
+    <string name="item_salir">Salir</string>
+    <string name="pref_relleno">Rellenar formas</string>
+    <string name="key_rellenar">key_rellenar</string>
+    <string name="rellenar_on">Las figuras estarán rellenas</string>
+    <string name="rellenar_off">Se dibujará solo el borde</string>
+    <string name="key_tamanyo">key_tamanyo</string>
+    <string name="pref_forma">Forma de las figuras</string>
+    <string name="key_color">key_color</string>
+    <string name="pref_vslores_rojo">Valor de rojo, valores entre 0-255</string>
+    <string name="key_rojo">key_rojo</string>
+    <string name="key_verde">key_verde</string>
+    <string name="pref_verde">Valor de verde, valores entre 0-255</string>
+    <string name="key_azul">key_azul</string>
+    <string name="pref_azul">Valor de azul, valores entre 0-250</string>
+    <string name="pref_categoria_formas_especiales">Formas especializadas personalizables</string>
+    <string name="pref_forma_esp">Elige entre estrella o polígono</string>
+    <string name="key_forma_especial">key_forma_especial</string>
+    <string name="pref_swich_formas_on">Forma de estrella</string>
+    <string name="pref_swich_formas_off">Forma de polígono</string>
+    <string name="key_num_lados">key_num_lados</string>
+    <string name="pref_num_lados">Indica el nº de lados o puntas</string>
+    <string name="key_forma">key_forma</string>
+    <string name="pref_permanencia">Permanencia</string>
+    <string name="permanencia_off">Solo aparece la última figura dibujada</string>
+    <string name="premanencia_on">Se van añadiendo las nuevas figuras</string>
+    <string name="key_permanencia">key_permanencia</string>
+</resources>

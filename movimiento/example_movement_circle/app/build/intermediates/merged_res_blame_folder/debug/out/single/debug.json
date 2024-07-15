@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\menu_ejemplo_canvas.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\menu\\ejemplo_canvas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\drawable-hdpi_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\drawable-hdpi\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\drawable-hdpi_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\drawable-hdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.movementcircle.app-merged_res-8:/menu_ejemplo_canvas.xml.flat",
+        "source": "com.example.movementcircle.app-main-10:/menu/ejemplo_canvas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-merged_res-8:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.5\\com.example.movementcircle.app-main-10:\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

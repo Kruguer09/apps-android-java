@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/it_group_principal"
+        android:orderInCategory="100">
+        <item
+            android:id="@+id/it_pantallaprincipal"
+            android:contentDescription="@string/desc_it_principal"
+            android:icon="@drawable/ic_home_color"
+            android:orderInCategory="110"
+            android:title="@string/it_principal"
+            app:showAsAction="ifRoom" />
+    </group>
+
+    <group
+        android:id="@+id/it_group_gestion_noticias"
+        android:checkableBehavior="single"
+        android:orderInCategory="200">
+        <item
+            android:id="@+id/it_insertar_menu"
+            android:contentDescription="@string/desc_it_insertar_menu"
+            android:icon="@drawable/ic_insertar_en_bd"
+            android:orderInCategory="210"
+            android:title="@string/it_insertar_menu"
+            app:showAsAction="ifRoom|withText" />
+        <item
+            android:id="@+id/it_eliminar_menu"
+            android:contentDescription="@string/desc_it_eliminar_menu"
+            android:icon="@drawable/ic_eliminar_de_bd"
+            android:orderInCategory="220"
+            android:title="@string/it_eliminar_menu"
+            app:showAsAction="ifRoom|withText" />
+    </group>
+    <group
+        android:id="@+id/it_group_preferencias"
+        android:orderInCategory="300">
+        <item
+            android:id="@+id/preferencias"
+            android:orderInCategory="310"
+            android:title="@string/it_pref_menu"
+            app:showAsAction="never" />
+    </group>
+    <group
+        android:id="@+id/it_group_add"
+        android:orderInCategory="400">
+        <item
+            android:id="@+id/it_acercade"
+            android:contentDescription="@string/desc_it_acercade"
+            android:orderInCategory="410"
+            android:title="@string/it_acercade"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/it_salir"
+            android:contentDescription="@string/desc_it_salir"
+            android:orderInCategory="420"
+            android:title="@string/it_salir"
+            app:showAsAction="never" />
+    </group>
+</menu>

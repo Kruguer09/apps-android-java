@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarea3_1</string>
+    <string name="tvDificultad">Dificultad elegida</string>
+    <string name="tvBase">Base de datos</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Juego</string>
+    <string name="sync_header">Tipo de BD</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Dificultad elegida</string>
+    <string name="reply_title">No elegida</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Base de datos</string>
+    <string name="attachment_summary_on">Externa MySQL, MariaDB
+    </string>
+    <string name="attachment_summary_off">Interna SQLite</string>
+</resources>

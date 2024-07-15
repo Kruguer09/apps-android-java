@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="título">Capitales del mundo</string>
+    <string name="Boton">Cerrar</string>
+    <string name="checkbox">Favorita</string>
+    <string name="tvHab">1000000</string>
+    <string name="tvCap">Capital</string>
+</resources>

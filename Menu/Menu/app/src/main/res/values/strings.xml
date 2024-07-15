@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="it_principal">Pantalla principal</string>
+    <string name="desc_it_principal">Volver a la pantalla principal</string>
+    <string name="it_pref_menu">Preferencias</string>
+    <string name="it_salir">Salir</string>
+    <string name="desc_it_salir">Salir de la aplicación</string>
+    <string name="it_acercade">Acerca de...</string>
+    <string name="desc_it_acercade">Autor y versión</string>
+    <string name="it_insertar_menu">Insertar</string>
+    <string name="desc_it_insertar_menu">Inserta una noticia en la BD</string>
+    <string name="it_eliminar_menu">Eliminar</string>
+    <string name="desc_it_eliminar_menu">Borra una noticia de la BD</string>
+    <string name="it_cargar_bd_menu">Cargar ejemplos</string>
+    <string name="it_borrar_bd_menu">Resetear Base de Datos</string>
+</resources>

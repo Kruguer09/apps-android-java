@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad_4_2</string>
+    <string name="tv_cabecera">Práctica de audio</string>
+    <string name="bt_seleccionar">SELECCIONA TEMA</string>
+</resources>
